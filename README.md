@@ -5,5 +5,4 @@ and to be runned on Google Earth Engine code space: https://code.earthengine.goo
 more info here: https://sites.research.google/gr/open-buildings/temporal/
 
 I just tested this script on ```GoogleEE```.
-
-![image](https://github.com/user-attachments/assets/8361846b-2d50-4e8b-ac9c-cdbbf29ae46e)
+![image](https://github.com/user-attachments/assets/bafa821f-f206-4eac-b68f-53b966403d2e)
